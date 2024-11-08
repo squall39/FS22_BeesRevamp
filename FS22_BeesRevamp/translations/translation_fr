@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Squall39</translationContributors>
+  <elements>
+    <e k="beesrevamp_beecare_info_title_oxusim" v="Traitement d’hiver"/>
+    <e k="beesrevamp_beecare_info_title_swarm_pressure" v="Pression de l’essaim"/>
+    <e k="beesrevamp_beecare_info_title_bee_population" v="Population d’abeilles"/>
+    <e k="beesrevamp_beecare_info_title_state" v="État"/>
+    <e k="beesrevamp_beecare_info_bee_population_format" v="%s Abeilles"/>
+    <e k="beesrevamp_beecare_do_swarm_control" v="Exécuter le contrôle de l’essaim"/>
+    <e k="beesrevamp_beecare_state_economic_hive" v="Colonie économique"/>
+    <e k="beesrevamp_beecare_state_young_hive" v="Jeune colonie"/>
+    <e k="beesrevamp_beecare_state_dead_hive" v="Mort"/>
+    <e k="beesrevamp_beecare_state_additional_swarmed" v="Envahi"/>
+    <e k="beesrevamp_beecare_common_state_on" v="Oui"/>
+    <e k="beesrevamp_beecare_common_state_off" v="Non"/>
+    <e k="beesrevamp_placeablebeehiveextended_info_title_nectar" v="Nectar"/>
+    <e k="beesrevamp_placeablebeehiveextended_info_nectar_format" v="%.2f l"/>
+    <e k="beesrevamp_placeablebeehiveextended_info_title_hives" v="Colonies"/>
+    <e k="beesrevamp_beehivesystemextended_info_influenced_by_bees" v="Influencé par les abeilles"/>
+    <e k="beesrevamp_beehivesystemextended_info_bee_bonus" v="Bonus d’abeille"/>
+    <e k="beesrevamp_beehivesystemextended_info_influenced_hive_singular" v="Eco. Ruche"/>
+    <e k="beesrevamp_beehivesystemextended_info_influenced_hive_plural" v="Eco. Urticaire"/>
+    <e k="beesrevamp_beehivesystemextended_info_title_bee_bonus_is_shrinking" v="Offre excédentaire!"/>
+    <e k="beesrevamp_beehivesystemextended_info_bee_bonus_is_shrinking" v="La prime aux abeilles diminue"/>
+
+    <!-- Assistance -->
+    <e k="beesrevamp_helpline_category" v="Refonte des abeilles"/>
+    <e k="beesrevamp_helpline_page_1" v="Aperçu"/>
+    <e k="beesrevamp_helpline_page_1_paragraph_2_title" v="Bonjour et bienvenue dans le Mod Bees Revamp"/>
+    <e k="beesrevamp_helpline_page_1_paragraph_2_text" v="Avec ce mod, les abeilles dans Farming Simulator 22 deviennent plus réalistes et un peu plus complexes, mais aussi plus productives.
+
+Je suis un apiculteur amateur avec 10 colonies pour le moment et c’est dommage que si peu joue avec les abeilles dans Farming Simulator 22. C’est pourquoi j’ai commencé à développer ce mod en 2023.
+
+Toutes les valeurs et tous les changements sont scientifiquement prouvés et/ou peut-être légèrement ajustés afin qu’ils ne deviennent pas un tueur de plaisir complet. L’accent sera toujours mis sur le plaisir.
+
+- Deux états d’une colonie (colonie jeune et colonie économique)
+- Seule la colonie économique produit du miel
+- Les abeilles récoltent le nectar
+- Les abeilles ne récoltent que lorsque le temps est beau
+- Le nectar est transformé en miel
+- Les abeilles mangent du nectar
+- L’aire de répartition des ruches a été augmentée.
+- Amélioration des performances de pollinisation
+- La ruche a un nombre variable d’abeilles
+- La saison d’essaimage se situe entre mars et juillet
+- Les prix des ruches ont été ajustés
+- Le prix de vente du miel a été ajusté
+- Compatible avec l’agriculture de précision
+
+Pour plus d’informations, de l’aide et des problèmes de signalement, veuillez visiter la page github de ce mod : https://github.com/Peppie84/FS22_BeesRevamp
+
+J’espère que vous vous amuserez tous avec ce mod.
+
+- Dennis (Peppie84)"/>
+    <e k="beesrevamp_helpline_page_2" v="Comportement des abeilles"/>
+    <e k="beesrevamp_helpline_page_2_paragraph_1_title" v="Tout commence petit..."/>
+    <e k="beesrevamp_helpline_page_2_paragraph_1_text" v="Une colonie d’abeilles commence également petite. Dès que vous placez une ruche, la colonie commence avec le statut : jeune colonie."/>
+    <e k="beesrevamp_helpline_page_2_paragraph_2_text" v="Une jeune colonie a besoin d’environ 1 an pour devenir une colonie économique et ce n’est qu’alors qu’elle produira du miel pour vous.
+
+Chaque colonie a un nombre aléatoire d’abeilles dès qu’elle est placée et est relancée chaque année. La population d’abeilles augmente sur la période de mars à juillet et diminue à nouveau en hiver. Dans l’affichage d’informations d’une ruche, vous pouvez également voir la quantité de nectar que les abeilles ont récoltée et n’ont pas encore traitée. Les abeilles ne récoltent pas de miel, mais du nectar et le transforment en miel dans la ruche. Plus d’informations à ce sujet sous Miel"/>
+    <e k="beesrevamp_helpline_page_2_paragraph_3_title" v="Si le temps est mauvais, personne ne vole"/>
+    <e k="beesrevamp_helpline_page_2_paragraph_3_text" v="Les abeilles ne voleront que si:
+- le soleil s’est levé
+- il fait au moins 10 degrés
+- il ne pleut pas
+- Ce n’est pas un mois d’hiver
+
+De plus, la portée a également été considérablement augmentée. Dans la vraie vie, une abeille se rassemble dans un rayon allant jusqu’à 3 km. Par conséquent, la portée a été étendue à 500 m."/>
+    <e k="beesrevamp_helpline_page_2_paragraph_4_text" v="Il y a aussi des ruches qui abritent plusieurs colonies d’abeilles, par exemple Beehive (10 Langstroth). Cependant, 10 colonies individuelles ne sont pas simulées pour le moment, mais tout est calculé comme une seule colonie. Cependant, le nombre de colonies est utilisé pour le calcul ultérieur de la prime de rendement."/>
+    <e k="beesrevamp_helpline_page_2_paragraph_5_text" v="Désormais, la colonie d’abeilles mangera également le nectar récolté toutes les heures. Mais ne vous inquiétez pas si le niveau de nectar descend à 0. Les abeilles ne mourront pas de faim. Mais si vous n’avez que du temps pluvieux, la production de miel changera radicalement pour l’année en cours."/>
+    <e k="beesrevamp_helpline_page_3" v="Essaimage"/>
+    <e k="beesrevamp_helpline_page_3_paragraph_1_title" v="Si la boîte est trop étroite, les abeilles veulent essaimer"/>
+    <e k="beesrevamp_helpline_page_3_paragraph_1_text" v="Entre mars et juillet, la colonie grandit très rapidement. Si l’apiculteur n’agrandit pas la ruche pendant ce temps, elle deviendra rapidement très à l’étroit. De plus, à un moment donné, l’ennui s’installe et les colonies veulent s’éloigner."/>
+    <e k="beesrevamp_helpline_page_3_paragraph_2_text" v="L’essaimage est la division naturelle d’une colonie. Pour l’apiculteur, cependant, cela signifie un inconvénient dans la récolte de miel de cette année si environ la moitié des abeilles ont envahi.
+
+Dans la vraie vie, l’apiculteur doit vérifier la colonie tous les 7 jours entre mars et juillet ; Dans le jeu, une fois par mois suffit. Il y a 25% de chances qu’une colonie ne développe pas de pression d’essaim'."/>
+    <e k="beesrevamp_helpline_page_3_paragraph_3_text" v="Vous devez marcher jusqu’à chaque ruche et voir si elle a une « pression d’essaim », puis effectuer une action avec « R ». Même si vous jouez avec plusieurs jours par mois, vous avez la possibilité d’effectuer un contrôle en essaim tout au long du mois."/>
+    <e k="beesrevamp_helpline_page_3_paragraph_4_title" v="La colonie grouillait"/>
+    <e k="beesrevamp_helpline_page_3_paragraph_4_text" v="Si la colonie a essaimé, 50% des abeilles sont emportées, ce qui signifie une faible production de miel pour le reste de l’année. Ce statut n’est réinitialisé qu’au milieu de l’année."/>
+    <e k="beesrevamp_helpline_page_4" v="Bonus de rendement"/>
+    <e k="beesrevamp_helpline_page_4_paragraph_1_title" v="Nouvelle prime de rendement pour les grandes cultures"/>
+    <e k="beesrevamp_helpline_page_4_paragraph_1_text" v="Avec ce mod, il ne suffit pas de mettre une colonie d’abeilles quelque part, mais il s’agit aussi d’un certain nombre de colonies par hectare pour une bonne prime de rendement.
+
+Le tableau suivant montre ce que sont les nouveaux bonus de rendement :
+
+Fruit             Bonus de rendement max             Colonies par hectare
+Colza                        30%                            3 colonies/ha
+Tournesol           80%                        4 colonies/ha
+Pomme de terre                    0%                           -
+Luzerne                     15%                       10 colonies/ha
+Trèfle                          10%                        8 colonies/ha
+Sarrasin              25%                      4.5 colonies/ha
+Phacélie                  25%                        4 colonies/ha
+Silphie                   50%                        4 colonies/ha
+Moutarde                   50%                        4 colonies/ha
+Herbe de trèfle               10%                        8 colonies/ha
+
+Les colonies d’abeilles avec le statut : colonie jeune sont complètement exclues de ce calcul. Cela vous évite de placer les colonies d’abeilles sur le terrain peu de temps avant la récolte et de recevoir ainsi un bonus."/>
+    <e k="beesrevamp_helpline_page_4_paragraph_2_text" v="Les informations sur le terrain vous indiquent maintenant combien de colonies d’abeilles se trouvent à proximité du champ, que ce soit la vôtre ou celles des autres joueurs, et le bonus de rendement auquel vous pouvez vous attendre."/>
+    <e k="beesrevamp_helpline_page_4_paragraph_3_text" v="Mais attention, vous pouvez également surapprovisionner un champ, ce qui aura un impact négatif car vous perdrez à nouveau du bonus de rendement." />
+    <e k="beesrevamp_helpline_page_5" v="Miel"/>
+    <e k="beesrevamp_helpline_page_5_paragraph_1_title" v="De nombreuses abeilles produisent beaucoup de miel"/>
+    <e k="beesrevamp_helpline_page_5_paragraph_1_text" v="La quantité de miel n’est plus déterminée par la ruche que vous avez placée, mais par plusieurs facteurs.
+
+Lorsque le temps est clément, en moyenne, deux tiers des abeilles d’une ruche récoltent du nectar et un tiers reste dans la ruche et s’occupe des bébés abeilles et transforme le nectar en miel, c’est-à-dire que plus il y a d’abeilles, plus il y a de nectar/miel produit.
+
+Dès que le soleil s’est couché et que les opérations de vol cessent, toutes les abeilles convertissent le nectar en miel. Le miel ne peut être produit que s’il y a du nectar. Le nectar n’est pas transformé en miel 1:1. Trois parties de nectar font une partie de miel. La conversion du nectar en miel s’arrête pendant le mois d’hiver, ils ne consomment donc du nectar qu’en hiver.
+
+S’il pleut longtemps et que les abeilles ne peuvent pas s’envoler, aucun nouveau nectar n’entrera dans la ruche et donc aucun miel ne pourra être produit.
+
+Les abeilles ont également besoin de nourriture. Ils le prennent simplement à partir du nectar récolté. Si la valeur du nectar tombe à 0, les abeilles ne mourront pas."/>
+    <e k="beesrevamp_helpline_page_6" v="Traitement d’hiver"/>
+
+  </elements>
+</l10n>
